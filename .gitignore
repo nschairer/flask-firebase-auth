@@ -1,0 +1,4 @@
+env/*
+.vscode/*
+fbAdminConfig.json
+fbconfig.json
